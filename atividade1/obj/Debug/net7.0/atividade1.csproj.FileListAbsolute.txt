@@ -1,0 +1,15 @@
+A:\CURSOC#\PROJETOS\atividade1\atividade1\bin\Debug\net7.0\atividade1.exe
+A:\CURSOC#\PROJETOS\atividade1\atividade1\bin\Debug\net7.0\atividade1.deps.json
+A:\CURSOC#\PROJETOS\atividade1\atividade1\bin\Debug\net7.0\atividade1.runtimeconfig.json
+A:\CURSOC#\PROJETOS\atividade1\atividade1\bin\Debug\net7.0\atividade1.dll
+A:\CURSOC#\PROJETOS\atividade1\atividade1\bin\Debug\net7.0\atividade1.pdb
+A:\CURSOC#\PROJETOS\atividade1\atividade1\obj\Debug\net7.0\atividade1.csproj.AssemblyReference.cache
+A:\CURSOC#\PROJETOS\atividade1\atividade1\obj\Debug\net7.0\atividade1.GeneratedMSBuildEditorConfig.editorconfig
+A:\CURSOC#\PROJETOS\atividade1\atividade1\obj\Debug\net7.0\atividade1.AssemblyInfoInputs.cache
+A:\CURSOC#\PROJETOS\atividade1\atividade1\obj\Debug\net7.0\atividade1.AssemblyInfo.cs
+A:\CURSOC#\PROJETOS\atividade1\atividade1\obj\Debug\net7.0\atividade1.csproj.CoreCompileInputs.cache
+A:\CURSOC#\PROJETOS\atividade1\atividade1\obj\Debug\net7.0\atividade1.dll
+A:\CURSOC#\PROJETOS\atividade1\atividade1\obj\Debug\net7.0\refint\atividade1.dll
+A:\CURSOC#\PROJETOS\atividade1\atividade1\obj\Debug\net7.0\atividade1.pdb
+A:\CURSOC#\PROJETOS\atividade1\atividade1\obj\Debug\net7.0\atividade1.genruntimeconfig.cache
+A:\CURSOC#\PROJETOS\atividade1\atividade1\obj\Debug\net7.0\ref\atividade1.dll

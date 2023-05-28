@@ -1,0 +1,15 @@
+A:\CURSOC#\Nivelamento-csharp\Atividade6\Atividade6\bin\Debug\net7.0\Atividade6.exe
+A:\CURSOC#\Nivelamento-csharp\Atividade6\Atividade6\bin\Debug\net7.0\Atividade6.deps.json
+A:\CURSOC#\Nivelamento-csharp\Atividade6\Atividade6\bin\Debug\net7.0\Atividade6.runtimeconfig.json
+A:\CURSOC#\Nivelamento-csharp\Atividade6\Atividade6\bin\Debug\net7.0\Atividade6.dll
+A:\CURSOC#\Nivelamento-csharp\Atividade6\Atividade6\bin\Debug\net7.0\Atividade6.pdb
+A:\CURSOC#\Nivelamento-csharp\Atividade6\Atividade6\obj\Debug\net7.0\Atividade6.csproj.AssemblyReference.cache
+A:\CURSOC#\Nivelamento-csharp\Atividade6\Atividade6\obj\Debug\net7.0\Atividade6.GeneratedMSBuildEditorConfig.editorconfig
+A:\CURSOC#\Nivelamento-csharp\Atividade6\Atividade6\obj\Debug\net7.0\Atividade6.AssemblyInfoInputs.cache
+A:\CURSOC#\Nivelamento-csharp\Atividade6\Atividade6\obj\Debug\net7.0\Atividade6.AssemblyInfo.cs
+A:\CURSOC#\Nivelamento-csharp\Atividade6\Atividade6\obj\Debug\net7.0\Atividade6.csproj.CoreCompileInputs.cache
+A:\CURSOC#\Nivelamento-csharp\Atividade6\Atividade6\obj\Debug\net7.0\Atividade6.dll
+A:\CURSOC#\Nivelamento-csharp\Atividade6\Atividade6\obj\Debug\net7.0\refint\Atividade6.dll
+A:\CURSOC#\Nivelamento-csharp\Atividade6\Atividade6\obj\Debug\net7.0\Atividade6.pdb
+A:\CURSOC#\Nivelamento-csharp\Atividade6\Atividade6\obj\Debug\net7.0\Atividade6.genruntimeconfig.cache
+A:\CURSOC#\Nivelamento-csharp\Atividade6\Atividade6\obj\Debug\net7.0\ref\Atividade6.dll
